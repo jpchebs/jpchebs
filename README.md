@@ -35,7 +35,9 @@ IT Analyst at UENP, a public state university in Paraná, Brazil. I build and ma
 
 ### 03 — Atividade <sub>/ activity</sub>
 
-<img height="180" src="https://streak-stats.demolab.com?user=jpchebs&border_radius=18&border=344119&background=0D1117&ring=BEEA1F&fire=BEEA1F&currStreakLabel=BEEA1F&sideNums=E6EDF3&currStreakNum=E6EDF3&sideLabels=8B949E&dates=6E7681&stroke=30363D&locale=pt_BR" alt="Sequência de contribuições"/>
+<p align="center">
+  <img height="180" src="https://streak-stats.demolab.com?user=jpchebs&border_radius=18&border=344119&background=0D1117&ring=BEEA1F&fire=BEEA1F&currStreakLabel=BEEA1F&sideNums=E6EDF3&currStreakNum=E6EDF3&sideLabels=8B949E&dates=6E7681&stroke=30363D&locale=pt_BR" alt="Sequência de contribuições"/>
+</p>
 
 ### 04 — Formação e publicações <sub>/ education</sub>
 
