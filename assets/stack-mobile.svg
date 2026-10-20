@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="628" viewBox="0 0 520 628" role="img" aria-label="Stack: Python, Django, FastAPI, Node.js, PostgreSQL, MongoDB, TypeScript, React, HTML, CSS, LDAP, Active Directory, Google Workspace, Git, GitLab, LGPD">
+  <title>Stack</title>
+  <style>
+    .mono { font-family: 'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace; }
+    .sans { font-family: 'Segoe UI','Helvetica Neue',Ubuntu,Roboto,Arial,sans-serif; }
+    .in { opacity: 0; animation: in .7s cubic-bezier(.2,.7,.2,1) forwards; }
+    @keyframes in { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+    @media (prefers-reduced-motion: reduce) { .in { animation: none; opacity: 1; transform: none; } }
+  </style>
+  <rect width="520" height="628" rx="18" fill="#0d1117"/>
+  <rect x=".75" y=".75" width="518.5" height="626.5" rx="17.5" fill="none" stroke="#BEEA1F" stroke-opacity=".22" stroke-width="1.5"/>
+  <g class="in" style="animation-delay:0.00s">
+    <text class="mono" x="40" y="50" font-size="14" fill="#BEEA1F">backend/</text>
+    <rect x="40" y="62" width="210" height="1" fill="#BEEA1F" fill-opacity=".25"/>
+    <rect x="40" y="80" width="210" height="34" rx="17" fill="#161b22" stroke="#30363d"/><circle cx="58" cy="97" r="4" fill="#BEEA1F"/><text class="sans" x="72" y="102" font-size="14" fill="#e6edf3">Python</text>
+    <rect x="40" y="124" width="210" height="34" rx="17" fill="#161b22" stroke="#30363d"/><circle cx="58" cy="141" r="4" fill="#BEEA1F"/><text class="sans" x="72" y="146" font-size="14" fill="#e6edf3">Django</text>
+    <rect x="40" y="168" width="210" height="34" rx="17" fill="#161b22" stroke="#30363d"/><circle cx="58" cy="185" r="4" fill="#BEEA1F"/><text class="sans" x="72" y="190" font-size="14" fill="#e6edf3">FastAPI</text>
+    <rect x="40" y="212" width="210" height="34" rx="17" fill="#161b22" stroke="#30363d"/><circle cx="58" cy="229" r="4" fill="#BEEA1F"/><text class="sans" x="72" y="234" font-size="14" fill="#e6edf3">Node.js</text>
+  </g>
+  <g class="in" style="animation-delay:0.12s">
+    <text class="mono" x="40" y="292" font-size="14" fill="#BEEA1F">dados/</text>
+    <rect x="40" y="304" width="210" height="1" fill="#BEEA1F" fill-opacity=".25"/>
+    <rect x="40" y="322" width="210" height="34" rx="17" fill="#161b22" stroke="#30363d"/><circle cx="58" cy="339" r="4" fill="#BEEA1F"/><text class="sans" x="72" y="344" font-size="14" fill="#e6edf3">PostgreSQL</text>
+    <rect x="40" y="366" width="210" height="34" rx="17" fill="#161b22" stroke="#30363d"/><circle cx="58" cy="383" r="4" fill="#BEEA1F"/><text class="sans" x="72" y="388" font-size="14" fill="#e6edf3">MongoDB</text>
+  </g>
+  <g class="in" style="animation-delay:0.24s">
+    <text class="mono" x="40" y="446" font-size="14" fill="#BEEA1F">frontend/</text>
+    <rect x="40" y="458" width="210" height="1" fill="#BEEA1F" fill-opacity=".25"/>
+    <rect x="40" y="476" width="210" height="34" rx="17" fill="#161b22" stroke="#30363d"/><circle cx="58" cy="493" r="4" fill="#BEEA1F"/><text class="sans" x="72" y="498" font-size="14" fill="#e6edf3">TypeScript</text>
+    <rect x="40" y="520" width="210" height="34" rx="17" fill="#161b22" stroke="#30363d"/><circle cx="58" cy="537" r="4" fill="#BEEA1F"/><text class="sans" x="72" y="542" font-size="14" fill="#e6edf3">React</text>
+    <rect x="40" y="564" width="210" height="34" rx="17" fill="#161b22" stroke="#30363d"/><circle cx="58" cy="581" r="4" fill="#BEEA1F"/><text class="sans" x="72" y="586" font-size="14" fill="#e6edf3">HTML · CSS</text>
+  </g>
+  <g class="in" style="animation-delay:0.12s">
+    <text class="mono" x="270" y="50" font-size="14" fill="#BEEA1F">infra/</text>
+    <rect x="270" y="62" width="210" height="1" fill="#BEEA1F" fill-opacity=".25"/>
+    <rect x="270" y="80" width="210" height="34" rx="17" fill="#161b22" stroke="#30363d"/><circle cx="288" cy="97" r="4" fill="#BEEA1F"/><text class="sans" x="302" y="102" font-size="14" fill="#e6edf3">LDAP</text>
+    <rect x="270" y="124" width="210" height="34" rx="17" fill="#161b22" stroke="#30363d"/><circle cx="288" cy="141" r="4" fill="#BEEA1F"/><text class="sans" x="302" y="146" font-size="14" fill="#e6edf3">Active Directory</text>
+    <rect x="270" y="168" width="210" height="34" rx="17" fill="#161b22" stroke="#30363d"/><circle cx="288" cy="185" r="4" fill="#BEEA1F"/><text class="sans" x="302" y="190" font-size="14" fill="#e6edf3">Google Workspace</text>
+    <rect x="270" y="212" width="210" height="34" rx="17" fill="#161b22" stroke="#30363d"/><circle cx="288" cy="229" r="4" fill="#BEEA1F"/><text class="sans" x="302" y="234" font-size="14" fill="#e6edf3">Git · GitLab</text>
+  </g>
+  <g class="in" style="animation-delay:0.24s">
+    <text class="mono" x="270" y="292" font-size="14" fill="#BEEA1F">governança/</text>
+    <rect x="270" y="304" width="210" height="1" fill="#BEEA1F" fill-opacity=".25"/>
+    <rect x="270" y="322" width="210" height="34" rx="17" fill="#161b22" stroke="#30363d"/><circle cx="288" cy="339" r="4" fill="#BEEA1F"/><text class="sans" x="302" y="344" font-size="14" fill="#e6edf3">LGPD</text>
+    <rect x="270" y="366" width="210" height="34" rx="17" fill="#161b22" stroke="#30363d"/><circle cx="288" cy="383" r="4" fill="#BEEA1F"/><text class="sans" x="302" y="388" font-size="14" fill="#e6edf3">Proteção de dados</text>
+    <rect x="270" y="410" width="210" height="34" rx="17" fill="#161b22" stroke="#30363d"/><circle cx="288" cy="427" r="4" fill="#BEEA1F"/><text class="sans" x="302" y="432" font-size="14" fill="#e6edf3">Gestão pública</text>
+  </g>
+</svg>
